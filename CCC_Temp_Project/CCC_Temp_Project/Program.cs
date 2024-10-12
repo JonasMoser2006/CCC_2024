@@ -104,9 +104,38 @@ namespace CccTempProject
             return input.Split(' ', StringSplitOptions.RemoveEmptyEntries);
         }
         
+        static void InsertionSort(int[] array)
+        {
+            for (int i = 1; i < array.Length; i++)
+            {
+                int key = array[i];
+                int j = i - 1;
+
+                while (j >= 0 && array[j] > key)
+                {
+                    array[j + 1] = array[j];
+                    j--;
+                }
+
+                array[j + 1] = key;
+            }
+        }
         
-        
-        
+        static void InsertionSortById(TempClass[] temps)
+        {
+            for (int i = 1; i < temps.Length; i++)
+            {
+                TempClass key = temps[i];
+                int j = i - 1;
+
+                while (j >= 0 && temps[j].getId() > key.getId())
+                {
+                    temps[j + 1] = temps[j];
+                    j--;
+                }
+
+                temps[j + 1] = key; 
+            }
+        }
     }
-    
 }
