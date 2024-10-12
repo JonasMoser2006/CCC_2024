@@ -20,12 +20,12 @@
 ## Feritge Methoden in Methoden.cs
 |Zeile  | Methode|
 | --- | ------ |
-| 1   | Sortierung von ints   |
-| 2   | Sortierung von Objekten  |
-| 3   | Einlesesn von files|
-| 4   | Splitten von eingelesesesnen Files |
-| 1   | Text TO Ascii|
-| 2   | Ascii TO Text|
-| 3   | Binary Search int|
-| 4   | Binary Search von Objekten mit id|
+| 97   | Sortierung von ints   |
+| 114  | Sortierung von Objekten  |
+| 79   | Einlesesn von files|
+| 92   | Splitten von eingelesesesnen Files |
+| 67   | Text TO Ascii|
+| 53   | Ascii TO Text|
+| 1   | Binary Search int|
+| 27   | Binary Search von Objekten mit id|
 
