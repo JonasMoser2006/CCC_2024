@@ -17,7 +17,7 @@
 * **Vorgegebene Temp Klasse mit ID**
 * **Program.cs mit Main**
 
-## Feritge Methoden in Methoden.cs
+## Fertige Methoden in Methoden.cs
 |Zeile  | Methode|
 | --- | ------ |
 | 97   | Sortierung von ints   |
@@ -28,4 +28,5 @@
 | 53   | Ascii TO Text|
 | 1   | Binary Search int|
 | 27   | Binary Search von Objekten mit id|
+| 131   | Write Output file|
 

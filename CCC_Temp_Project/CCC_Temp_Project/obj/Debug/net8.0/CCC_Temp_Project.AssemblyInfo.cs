@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CCC_Temp_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+745830e1d5cb47cda00b5d489ce1663f82c761ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcfb820f8bcda36e2ba69666fca5c4557bdb11ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("CCC_Temp_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CCC_Temp_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
