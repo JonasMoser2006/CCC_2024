@@ -18,7 +18,7 @@
 * **Program.cs mit Main**
 
 ## Fertige Methoden in Methoden.cs
-|Zeile  | Methode|
+|Zeile  | Methoden.cs|
 | --- | ------ |
 | 97   | Sortierung von ints   |
 | 114  | Sortierung von Objekten  |
